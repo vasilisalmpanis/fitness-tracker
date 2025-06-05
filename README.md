@@ -34,5 +34,8 @@ cargo build
 
 The binary will be located in ```./target/debug/fitness-tracker```
 
+To access the website visit [http://localhost:8080](http://localhost:8080)
+after running the backend.
+
 ## Tests
 Not implemented yet
